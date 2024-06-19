@@ -12,3 +12,5 @@ A basic console game where players can navigate through a maze.
    ```bash
    git clone https://github.com/Stefanos-gif/simple-console-game
    cd simple-console-game
+   g++ maze_game.cpp -o maze_game
+   ./maze_game
